@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">App_004</string>
+
+    <string name="edittext_primervalor">Ingrese un numero</string>
+    <string name="edittext_segundovalor">Ingrese otro numero</string>
+    <string name="button_aceptar">Aceptar</string>
+    <string name="textview_resultado">Resultado</string>
 </resources>
